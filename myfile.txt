@@ -1,3 +1,4 @@
 name: fahmi fiqih
 student: dumbways
 working: meteor stay
+job: devops handal
